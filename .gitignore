@@ -1,0 +1,5 @@
+.env
+db.sqlite3
+/myapp/__pycache__/
+/myapp/migrations/
+/imageuploader/__pycache__/
